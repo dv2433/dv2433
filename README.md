@@ -7,9 +7,13 @@
 
 - 🧑‍🎓 I’m currently Studying B.Tech in Computer Engineering. 
 
+- 👁️ I'm interested in App Development and Data Structure & Algorithms.
+
 - 📖 I’m currently learning **DSA,Flutter and Dart Language**
 
 - 🧑‍💻 I'm currently working on Flutter Application **Easy To Learn**
+
+- 💬 Ask me about **java**
 
 - 📫 You can reach me with **dpvekariya2433@gmail.com**
 
