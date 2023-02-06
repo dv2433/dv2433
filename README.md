@@ -9,9 +9,9 @@
 
 - 👁️ I'm interested in App Development and Data Structure & Algorithms.
 
-- 📖 I’m currently learning **DSA,Flutter and Dart Language**
+- 📖 I’m currently learning **DSA,Flutter and Dart Programming Language**
 
-- 🧑‍💻 I'm currently working on Flutter Application **Easy To Learn**
+- 🧑‍💻 I'm currently working on Flutter Application **Smart Class**
 
 - 💬 Ask me about **java**
 
