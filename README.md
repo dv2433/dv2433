@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dv2433&label=Profile%20views&color=0e75b6&style=flat" alt="dv2433" /> </p>
 
-- 🧑‍🎓 I’m currently Studying B.Tech in Computer Engineering. 
+- 🧑‍🎓 B.Tech Graduate in Computer Engineering
 
-- 👁️ I'm interested in App Development and Data Structure & Algorithms.
+- 👨‍💻 I am currently seeking opportunities as a Java Backend Developer or Software Developer.
 
-- 📖 I’m currently learning **DSA,Flutter and Dart Programming Language**
+- 👁️ I'm interested in JAVA Backend Development and System Design.
 
-- 🧑‍💻 I'm currently working on Flutter Application **Smart Class**
+- 📖 I’m currently learning **DSA and Backend Develpoment in JAVA + SPRING BOOT**
 
-- 💬 Ask me about **java**
+- 🧑‍💻 I'm currently working on Movie Ticket Booking Application **POPCORN CLUB**
+
+- 💬 Ask me about **java, Spring Boot, System Design**
 
 - 📫 You can reach me with **dpvekariya2433@gmail.com**
 
