@@ -37,7 +37,7 @@
 <p>
 <a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a>
-<a href="https://junit.org"><img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" width="40"/></a>
+<a href="https://junit.org"><img src="https://junit.org/assets/img/junit-logo.svg" width="40"/></a>
 </p>
 
 ### 🗄️ Databases, Caching & Streaming  
