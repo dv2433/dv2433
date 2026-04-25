@@ -54,6 +54,7 @@
 <a href="https://aws.amazon.com"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/></a>
 <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
 <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
+<a href="https://www.puppet.com"><img src="https://www.svgrepo.com/show/354230/puppet-icon.svg" width="40"/></a>
 <a href="https://www.terraform.io"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/></a>
 <a href="https://www.linux.org"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/></a>
 </p>
